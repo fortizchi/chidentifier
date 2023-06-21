@@ -8,3 +8,8 @@ chidentifier.egg-info/SOURCES.txt
 chidentifier.egg-info/dependency_links.txt
 chidentifier.egg-info/requires.txt
 chidentifier.egg-info/top_level.txt
+uptogithub/__init__.py
+uptogithub/setup.py
+uptogithub/x.chidentifier.py
+uptogithub/chidentifier/__init__.py
+uptogithub/chidentifier/chidentifierlib.py

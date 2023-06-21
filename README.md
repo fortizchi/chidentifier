@@ -1,6 +1,6 @@
-chidentifier stands for Ultrafast shape-recognition algorithm with mass ponderation. chidentifier is an easy-to-use program to discriminate similar molecules in a list. The chidentifier program requires a list of concatenated molecules in XYZ format and an optional tolerance parameter as input parameters. The input file name can be anything if it contains at least two joined molecules in XYZ format. If you don't have a valid xyz file, chidentifier can create a sample file as appropriate.
+CHidentifier is a pun on Chirality Identifier. CHIdentifier is an easy-to-use command line program to determine if two molecular systems are chiral to each other and if one is an enantiomer of the other. The chirality is resolved within a tolerance value defined by the user. CHIdentifier requires three input parameters, the first two are the file names of each of the molecules to be tested, while the third is an optional tolerance (TOL) parameter. The format of the input molecules is required to be XYZ. CHIdentifier can generate sample files from a menu, depending on the chosen case, to facilitate the dynamics of use. The program outputs a binary answer in each case: 1 if the compared molecules are enantiomers and 0 otherwise.
 
-Installing chidentifier
+Installing CHidentifier
 ===============
 
 You can install and uninstall with:
@@ -31,7 +31,7 @@ x.chidentifier.py
 python3 -m pip uninstall chidentifier-0.1-py3-none-any.whl
 ```
 
-Running chidentifier
+Running CHidentifier
 ===============
 
 ```
