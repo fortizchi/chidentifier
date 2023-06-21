@@ -1,0 +1,10 @@
+README.md
+setup.py
+x.chidentifier.py
+chidentifier/__init__.py
+chidentifier/chidentifierlib.py
+chidentifier.egg-info/PKG-INFO
+chidentifier.egg-info/SOURCES.txt
+chidentifier.egg-info/dependency_links.txt
+chidentifier.egg-info/requires.txt
+chidentifier.egg-info/top_level.txt
